@@ -1,0 +1,12 @@
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\base16_sudoku.apk.recipe
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\base16_sudoku.apk.recipe.merged
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\FileStringReplace.incremental
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\base16_sudoku.apk
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\base16_sudoku.lastsuccessfuldeploy
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libbase16_sudoku.so
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\libs\armeabi-v7a\gdbserver
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libgnustl_static.a
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\res\values\strings.xml
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\AndroidManifest.xml
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\project.properties
+E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.Packaging\ARM\Debug\Package\build.xml

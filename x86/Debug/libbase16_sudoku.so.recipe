@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>E:\Work\_Small-Projects\base16-sudoku\x86\Debug\libbase16_sudoku.so;C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r11c\prebuilt\android-x86\gdbserver\gdbserver;C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r11c\sources\cxx-stl\gnu-libstdc++\4.9\libs\x86\libgnustl_static.a</SOLibPaths>
+  <AndroidLibPaths />
+  <OObjPaths>E:\Work\_Small-Projects\base16-sudoku\base16-sudoku\base16-sudoku.NativeActivity\x86\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>x86</Platform>
+  <AndroidArchitecture>x86</AndroidArchitecture>
+  <!--links to other recipe files-->
+  <RecipeFiles />
+</project>

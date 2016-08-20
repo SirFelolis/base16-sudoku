@@ -1,0 +1,1 @@
+$(AntDependencies)=;$(ApplicationId)=applicationId = "";$(ConfigurationType)=application;$(AarDependencies)=;$(AarDependenciesSettings)=;$(ApplicationName)=base16_sudoku;$(AndroidAppLibName)=base16_sudoku;$(AndroidBuildToolsVersion)=19.1.0;$(AndroidAPILevelNumber)=19;$(androidapilevel)=android-19;$(projectname)=base16-sudoku.Packaging;
